@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: A program that prints _putchar, followed by a new line.
- * Returni: Always return 0 (success)
+ * Return: Always return 0 (success)
  */
 
 int main(void)
