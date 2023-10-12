@@ -1,10 +1,9 @@
-#!/bin/bash
 #include "main.h"
 
 /**
  * main - Entry point
  * Description: A program that prints _putchar, followed by a new line.
- * Return: Always return 0 (success)
+ * Returni: Always return 0 (success)
  */
 
 int main(void)
